@@ -12,6 +12,7 @@ Indian Institute of Technology (IIT) Kanpur
 ## Week 0 
 **resources**
 https://docs.google.com/document/d/1nDqdAmOHndMtkVH-VrTRSiPqIN2l4LN-Vg9T5lvZkf0/edit?usp=sharing
+
 **Assignment 1**
 https://colab.research.google.com/drive/1_OIuxdnO-FT08gkEFe3NflKjRv2oVTOO?usp=sharing
 ## Week 1
